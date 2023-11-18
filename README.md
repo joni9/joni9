@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jonior999@gmail.com**
 
-- 📄 Know about my experiences [https://jonior.framer.website](https://jonior.framer.website)
+- 📄 Know about my experiences [https://resume-joni.netlify.app](https://resume-joni.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
